@@ -4,3 +4,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git was written LINUS.
 Git tracks changes of file.
+fix bug 101 here
